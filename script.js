@@ -17,7 +17,7 @@ function calculateMultiple(){
     const a = document.getElementById("a").value;
     const b = document.getElementById("b").value;
     const result = parseInt(a) * parseInt(b);
-    document.getElementById("multiple").value = result;
+    document.getElementById("Multiple").value = result;
 
 };
 
@@ -25,6 +25,6 @@ function calculateDivision(){
     const a = document.getElementById("a").value;
     const b = document.getElementById("b").value;
     const result = parseInt(a) / parseInt(b);
-    document.getElementById("division").value = result;
+    document.getElementById("Division").value = result;
 
 }
