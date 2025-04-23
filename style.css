@@ -25,7 +25,7 @@ body{
     background-color: rgb(221, 208, 218);
     border-radius: 1rem;
     height: 35vmin;
-    width: 30vmin;
+    width: 50vmin;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
